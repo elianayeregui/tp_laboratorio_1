@@ -1,2 +1,2 @@
-# tp_laboratorio_[1]
+# tp_laboratorio_1
 trabajos prácticos de Laboratorio 1
